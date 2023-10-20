@@ -1,0 +1,1 @@
+python main.py zhuang2016_maswhs_subject1_label.nii.gz zhuang2016_maswhs_subject1_image.nii.gz
